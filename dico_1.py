@@ -21,6 +21,7 @@ def splitfile(fichier):
 def recu
 
 if __name__ == "__main__":
+    
     main("")
 
 '''    with open('shadow', 'r') as f: #/Ouvrir fichier des coomptes et MDP
